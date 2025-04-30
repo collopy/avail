@@ -83,7 +83,7 @@ while getopts 'lwrR:c:d:s:e:S:E:m:' option; do
 			lunch=!lunch #Reverse preference for lunch breaks
 			;;
 		w)
-			weekends=!weekends #Reverse preference for lunch breaks
+			weekends=!weekends #Reverse preference for weekends
 			;;
 		r)
 			remote=!remote #Reverse preference for remote meeting
